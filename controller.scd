@@ -1,5 +1,5 @@
 
-"install_transgrain.scd".loadRelative;
+"transgrain/scripts/install_transgrain.scd".loadRelative;
 
 // boot and build a proxyspace
 (
@@ -65,4 +65,4 @@ p[\out].play
 p[\out].end;
 
 // unload the module from the library
-"uninstall_transgrain.scd".loadRelative;
+"transgrain/scripts/uninstall_transgrain.scd".loadRelative;

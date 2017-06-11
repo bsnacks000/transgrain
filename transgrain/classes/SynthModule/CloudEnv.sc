@@ -1,4 +1,4 @@
-CloudEnvB {
+CloudEnv {
 
 	var <server, <proxy, <>inbus_name, <>outbus_name, <>env_name, <>id, <>param;
 
