@@ -1,0 +1,7 @@
+(
+	name: "SynthModule",
+	path: "SynthModule",
+	author: "jdeblase",
+	version: "0.0.1",
+	summary: "TransGrain -- A granular synthesis API based on Pattern Proxies"
+)
